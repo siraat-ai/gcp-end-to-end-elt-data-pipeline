@@ -62,7 +62,7 @@ The pipeline ingests raw data from external sources, processes it using BigQuery
 
 ## 🏗 Architecture
 
-
+```
 ```
 Source (CSV/API)
 ↓
@@ -78,7 +78,7 @@ Curated Layer (Analytics Ready)
 ↓
 Dashboard / BI Tool
 ```
-
+```
 
 ---
 
